@@ -4,9 +4,9 @@ Project Name – Grocery Invoice Billing Management System
 Member Name – Kalind Joshi
 NUID – 002752274
 
-•empclean and empclean1 are two notebooks which clean employee data
-•finalemp is the notebook which will merge and create final empcleaned file i.e. finalemp.xls
-•	employeeinsert.sql is the sql file to push empclean.csv data to mySQL DB
+* empclean and empclean1 are two notebooks which clean employee data
+* finalemp is the notebook which will merge and create final empcleaned file i.e. finalemp.xls
+•employeeinsert.sql is the sql file to push empclean.csv data to mySQL DB
 •	prodclean1 is the notebook which clean product data from groceriesdataset.csv and will create a cleaned xls file i.e. prodclean.xls
 •	productimport.ipynb is the notebook which import the prodclean.xls file to the SQL database
 •	invoicefinal.xls is a combination of all the other tables like product, customer etc.
