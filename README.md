@@ -1,8 +1,8 @@
 # DMDD_Assignment3_002752274
-Assignment 3: Gathering, Scraping, Munging, and Cleaning Data
-Project Name – Grocery Invoice Billing Management System
-Member Name – Kalind Joshi
-NUID – 002752274
+* Assignment 3: Gathering, Scraping, Munging, and Cleaning Data
+* Project Name – Grocery Invoice Billing Management System
+* Member Name – Kalind Joshi
+* NUID – 002752274
 
 * empclean and empclean1 are two notebooks which clean employee data
 * finalemp is the notebook which will merge and create final empcleaned file i.e. finalemp.xls
